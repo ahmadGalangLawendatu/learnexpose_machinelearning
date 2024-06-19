@@ -1,0 +1,6 @@
+setuptools
+Flask==2.2.3
+Werkzeug
+numpy
+pandas==1.5.3
+scikit-learn==1.2.1
