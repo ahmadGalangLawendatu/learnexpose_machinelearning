@@ -21,8 +21,3 @@ This project predicts advertising cost based on sales using simple linear regres
 1. Run `regression_endpoint.py` to train the model and save it to `regression.pkl`.
 2. Start the Flask server by running `regression_endpoint.py`.
 3. Make predictions by sending requests to the `/predict-advertising` endpoint with the `sales` parameter.
-
-## Evaluation
-The model was evaluated using RMSE and R2 score. The results are as follows:
-- RMSE: X.XX
-- R2 Score: X.XX
